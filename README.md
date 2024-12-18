@@ -12,4 +12,4 @@ Technology
 
 Developer
 - Name = Furkan
-- Email = afurkanteke0@gmail.com
+- Email = afurkanteke0@gmail.com 
